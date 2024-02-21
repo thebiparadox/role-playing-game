@@ -1,2 +1,1 @@
-# role-playing-game
-Created a Role-playing Game for Bad Website Club's bootcamp
+Created a Role-playing Game for Bad Website Club's bootcamp using freecodeCamp's JavaScript Algorithms and Data Structures (Beta) curriculum.
